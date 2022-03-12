@@ -1,5 +1,5 @@
 ### Hi there 👋
-![tclazz](https://img.shields.io/badge/TClazz-Dev-brightgreen)(http://www.tclazz.com)
+![tclazz](https://img.shields.io/badge/TClazz-Dev-brightgreen)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tclazz&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tclazz&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 <!--
